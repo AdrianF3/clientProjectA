@@ -1,0 +1,81 @@
+
+  <!-- MAIN CONTENT -->
+  <div class="row indexContent">
+    <div class="col-md-12 video-container indexBtmContent">
+      <iframe width="540" height="315" src="https://www.youtube.com/embed/nvV1e9eta3k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen sandbox="allow-forms allow-scripts allow-pointer-lock allow-same-origin allow-top-navigation"></iframe>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-12 textCenter">
+      <div class="registrationFormTop paddingBtm paddingTop">
+        <form method="post" action="">
+          <h2>
+            Hey <?php echo $fName ?>!
+          </h2>
+          <h4>
+            We’re looking forward to seeing you on <span class="tempText">###</span>!
+          </h4>
+          <br>
+          <br>
+          <p class="registerInfo">
+            You should have already received the Zoom Login information for the event in your intro email, but it’s also at the bottom of the page for your convenience.
+          </p>
+          <div class="col-md-12 registerInstructions">
+              <p>
+              In the meantime, please take a quick second and answer the
+              following brief questions so that Matt and Andrew can make this
+              the BEST possible experience for you.
+            </p>
+            <br>
+          </div>
+          <div class="row registrationFormBtm">
+            <div class="col-md-12">
+              <label class="regFormSpace" for="qOne">What is the Number 1 challenge around your mindset that you would like Matt and Andrew to try and address?</label>
+              <textarea name="qOneAnswer" rows="2" cols="30"><?php echo $question1 ?></textarea>
+              <br>
+              <label class="regFormSpace" for="hotSeat">Would you like the above question to be considered for a possible hot seat with Matt and Andrew during the event?</label>
+              <input type="radio" id="hotSeatYes" name="hotSeat" value="Yes" required>
+              <label for="Yes">Yes</label>
+              <input type="radio" id="hotSeatNo" name="hotSeat" value="No" required>
+              <label for="No">No</label>
+              <br>
+              <label class="regFormSpace" for="hereFor">Who Are You Here For?</label><br>
+              <input type="radio" id="matt" name="hereFor" value="Matt" required>
+              <label for="matt">Matt</label>
+              <input type="radio" id="andrew" name="hereFor" value="Andrew" required>
+              <label for="andrew">Andrew</label>
+              <br>
+              <button type="submit" name="submitRegistration" value="submitRegistration" class="outpulser"><span>Complete My Registration</span></button>
+            </div>
+          </div>
+        </form>
+        <div class="col-md-12 indexBtmContent">
+          <h2 class="tempText">Here is your Zoom call info for the event:</h2>
+          <p class="regZoomInfo">
+            Andrew Kap and Matt Lane are inviting you to a scheduled Zoom meeting.
+            <br><br>
+            Topic: Dismantle Your Doubt<br>
+            Time: June 21, 2021 01:00 PM Eastern Time (US and Canada)
+            <br><br>
+            Join Zoom Meeting<br>
+            https://us02web.zoom.us/j/xxxxxxxxxx
+            <br><br>
+            Meeting ID: xxx xxxx xxxx<br>
+            One tap mobile<br>
+            +13017158592,,86398840620# US (Washington DC)<br>
+            +13126266799,,86398840620# US (Chicago)<br>
+            <br><br>
+            Dial by your location<br>
+                    +1 301 715 8592 US (Washington DC)<br>
+                    +1 312 626 6799 US (Chicago)<br>
+                    +1 646 558 8656 US (New York)<br>
+                    +1 253 215 8782 US (Tacoma)<br>
+                    +1 346 248 7799 US (Houston)<br>
+                    +1 669 900 9128 US (San Jose)<br>
+            Meeting ID: xxx xxxx xxxx<br>
+            Find your local number: https://us02web.zoom.us/u/kduZzd3H1l<br>
+          </p>
+        </div>
+    </div>
+    </div>
+  </div>
