@@ -14,7 +14,7 @@
 
 ## Demo Insctructions 
 In order to access the demo and flow of this project, start by visiting ## and follow the directions below.
-- Visit DismantleYourDoubt.com/login.php in order to log in using the following credentials (###)
+- Visit <a href="http://DismantleYourDoubt.com/login.php" targer="_blank">DismantleYourDoubt.com/login.php</a> in order to log in using the following credentials (###)
 - When you log in, you will be redirected to the registration questions, feel free to continue with this form by answering any questions
 </p>
 <p>
@@ -28,6 +28,5 @@ Some SVG graphics sourced from <a href="https://tablericons.com" target="_blank"
 Developer SVG by <a href="https://storyset.com/" target="_blank">StorySet</a>
 
 ## Contact
-Phone: <a href="tel:720-477-0179">(720) 477-0179</a><br>
 Email: AdrianF.WebDev@gmail.com<br>
-Portfolio: <a href="http://afwebdev.com" target="_blank">AFWebDev.com</a>
+Developer Portfolio: <a href="http://afwebdev.com" target="_blank">AFWebDev.com</a>
