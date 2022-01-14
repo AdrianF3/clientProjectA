@@ -16,9 +16,9 @@
 In order to access the demo and flow of this project, start by visiting ## and follow the directions below.
 - Visit DismantleYourDoubt.com/login.php in order to log in using the following credentials (###)
 - When you log in, you will be redirected to the registration questions, feel free to continue with this form by answering any questions
-- 
-
-
+</p>
+<p>
+    <b>The demo is still active as it was when I was developing this project</b>. Unfortunately the project/event was cancelled prior to launch and that is when I stopped development and lost access to the website or backend, as well as the originally deployed repo. I do have a copy of the repo which I have provided however.
 </p>
 
 
