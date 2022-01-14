@@ -12,10 +12,10 @@
 </p>
 <p>
 
-## Demo Insctructions 
+## Demo Instructions 
 In order to access the demo and flow of this project, start by visiting ## and follow the directions below.
 - Visit <a href="http://DismantleYourDoubt.com/login.php" targer="_blank">DismantleYourDoubt.com/login.php</a> in order to log in using the following credentials (###)
-- When you log in, you will be redirected to the registration questions, feel free to continue with this form by answering any questions
+- When you log in, you will be redirected to the registration questions, feel free to continue with this form by answering any questions. 
 
 ### Demo Credentials:
 First Name: ##<br>
