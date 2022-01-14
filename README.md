@@ -16,6 +16,11 @@
 In order to access the demo and flow of this project, start by visiting ## and follow the directions below.
 - Visit <a href="http://DismantleYourDoubt.com/login.php" targer="_blank">DismantleYourDoubt.com/login.php</a> in order to log in using the following credentials (###)
 - When you log in, you will be redirected to the registration questions, feel free to continue with this form by answering any questions
+
+### Demo Credentials:
+First Name: ##<br>
+Email: ## <br>
+
 </p>
 <p>
     <b>The demo is still active as it was when I was developing this project</b>. Unfortunately the project/event was cancelled prior to launch and that is when I stopped development and lost access to the website or backend, as well as the originally deployed repo. I do have a copy of the repo which I have provided however.
@@ -23,9 +28,7 @@ In order to access the demo and flow of this project, start by visiting ## and f
 
 
 ## Credits
-The profile theme was adapted from the Arcane theme at <a href="https://html5up.net" target="_blank">HTML5Up.net</a><br>
 Some SVG graphics sourced from <a href="https://tablericons.com" target="_blank">TablerIcons</a><br>
-Developer SVG by <a href="https://storyset.com/" target="_blank">StorySet</a>
 
 ## Contact
 Email: AdrianF.WebDev@gmail.com<br>
