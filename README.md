@@ -13,18 +13,30 @@
 <p>
 
 ## Demo Instructions 
+<p>
+    <b>The demo is still active as it was when I was developing this project</b>. Unfortunately the project/event was cancelled prior to launch and that is when I stopped development and lost access to the website or backend, as well as the originally deployed repo. I do have a copy of the repo which I have provided however.
+</p>
+
+<p>
+    Becase of the changes made, the demo is no longer interactive - however all of pages are still visible and can be viewed with default/placeholder information. Below I've listed the workflow users would have followed with a brief description on what users would do on each page:<br>
+
+    - Home Page: DismantleYourDoubt.com - users would have been able to learn about the event and purchase access via Shopify<br>
+    ** After purhcase on Shopify, a Shopify Webhook would then connect to the backend of the website and save the customers email and firstname to the databse in order to use as log in credentials<br>
+    ** Once the relevant info was saved, a script would then automatically email the customer from DismantleYourDoubt.com, inviting them to complete their registration for the event. 
+    - Log in: http://dismantleyourdoubt.com/login.php - customers would be directed to log in using their first name and email address used for their Shopify purchase<br>
+    - Register: http://dismantleyourdoubt.com/register.php - users would be prompted to answer the questions to 'register' for the event, this is also where users would be able to see the Zoom event info<br>
+    - Registered: http://dismantleyourdoubt.com/registered.php - After answering the registration questions, users would once again see the Zoom event info<br>
+    
+</p>
+
 In order to access the demo and flow of this project, start by visiting ## and follow the directions below.
 - Visit <a href="http://DismantleYourDoubt.com/login.php" targer="_blank">DismantleYourDoubt.com/login.php</a> in order to log in using the following credentials (###)
 - When you log in, you will be redirected to the registration questions, feel free to continue with this form by answering any questions. 
 
-### Demo Credentials:
-First Name: ##<br>
-Email: ## <br>
+
 
 </p>
-<p>
-    <b>The demo is still active as it was when I was developing this project</b>. Unfortunately the project/event was cancelled prior to launch and that is when I stopped development and lost access to the website or backend, as well as the originally deployed repo. I do have a copy of the repo which I have provided however.
-</p>
+
 
 
 ## Credits
