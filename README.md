@@ -20,7 +20,7 @@
 <p>
     Becase of the changes made, the demo is no longer interactive - however all of pages are still visible and can be viewed with default/placeholder information. Below I've listed the workflow users would have followed with a brief description on what users would do on each page:<br>
 
-    - Home Page: DismantleYourDoubt.com - users would have been able to learn about the event and purchase access via Shopify<br>
+    Home Page: DismantleYourDoubt.com - users would have been able to learn about the event and purchase access via Shopify<br>
     ** After purhcase on Shopify, a Shopify Webhook would then connect to the backend of the website and save the customers email and firstname to the databse in order to use as log in credentials<br>
     ** Once the relevant info was saved, a script would then automatically email the customer from DismantleYourDoubt.com, inviting them to complete their registration for the event. 
     - Log in: <a href="http://DismantleYourDoubt.com/login.php" targer="_blank">DismantleYourDoubt.com/login.php</a> - customers would be directed to log in using their first name and email address used for their Shopify purchase<br>
