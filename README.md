@@ -32,16 +32,10 @@
 - Register: <a href="http://dismantleyourdoubt.com/register.php" targer="_blank">DismantleYourDoubt.com/register.php/</a> - users would be prompted to answer the questions to 'register' for the event, this is also where users would be able to see the Zoom event info<br>
 
 - Registered: <a href="http://dismantleyourdoubt.com/registered.php" targer="_blank">http://dismantleyourdoubt.com/registered.php</a> - After answering the registration questions, users would once again see the Zoom event info<br>
-** I built a rudimentary 'Admin View' where the event organizers would be able to view all of the submitted responses at 
+
+- I built a rudimentary 'Admin View' where the event organizers would be able to view all of the submitted responses at 
 <a href="http://dismantleyourdoubt.com/admin_view.php" targer="_blank">http://dismantleyourdoubt.com/admin_view.php</a>
     
-
-
-<a href="http://DismantleYourDoubt.com/login.php" targer="_blank">DismantleYourDoubt.com/login.php</a>
-
-
-
-
 ## Credits
 Some SVG graphics sourced from <a href="https://tablericons.com" target="_blank">TablerIcons</a><br>
 
