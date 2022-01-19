@@ -22,10 +22,15 @@
 </p>
 
     1. Home Page: DismantleYourDoubt.com, users would have been able to learn about the event and purchase access via Shopify<br>
+
     2. After purhcase on Shopify, a Shopify Webhook would then connect to the backend of the website and save the customers email and firstname to the databse in order to use as log in credentials<br>
+
     3. Once the relevant info was saved, a script would then automatically email the customer from DismantleYourDoubt.com, inviting them to complete their registration for the event. 
+
     4. Log in: <a href="http://DismantleYourDoubt.com/login.php" targer="_blank">DismantleYourDoubt.com/login.php</a> - customers would be directed to log in using their first name and email address used for their Shopify purchase<br>
+
     5. Register: <a href="http://dismantleyourdoubt.com/register.php" targer="_blank">http://dismantleyourdoubt.com/register.php/</a> - users would be prompted to answer the questions to 'register' for the event, this is also where users would be able to see the Zoom event info<br>
+    
     6. Registered: <a href="http://dismantleyourdoubt.com/registered.php" targer="_blank">http://dismantleyourdoubt.com/registered.php</a> - After answering the registration questions, users would once again see the Zoom event info<br>
     ** I built a rudimentary 'Admin View' where the event organizers would be able to view all of the submitted responses at 
     <a href="http://dismantleyourdoubt.com/admin_view.php" targer="_blank">http://dismantleyourdoubt.com/admin_view.php</a>
