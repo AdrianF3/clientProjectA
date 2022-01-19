@@ -21,6 +21,7 @@
     Becase of the changes, the demo is no longer interactive - however all of the pages are still visible and can be viewed with default/placeholder information. Below I've listed the workflow users would have experienced with a brief description of each page:
 </p>
 
+## Demo Walkthrough
 - Home Page: <a href="http://DismantleYourDoubt.com" targer="_blank">DismantleYourDoubt.com</a> , users would have been able to learn about the event and purchase access using a Shopify link<br>
 
 - After purhcase on Shopify, a Shopify Webhook would then connect to the backend of the website and save the customers email and firstname to the databse in order to use as log in credentials<br>
