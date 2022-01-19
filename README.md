@@ -14,11 +14,11 @@
 
 ## Demo Instructions 
 <p>
-    <b>The demo is still active as it was when I was developing this project</b>. Unfortunately the project/event was cancelled prior to launch and that is when I stopped development and lost access to the website or backend, as well as the originally deployed repo. I do have a copy of the repo which I have provided however.
+    <b>The demo is still active as it was when I was developing this project</b>. Unfortunately the project/event was cancelled prior to launch and that is when development stopped and I gave up access to the website & backend, as well as the originally deployed repo. I do have a copy of the repo, in its final version.
 </p>
 
 <p>
-    Becase of the changes made, the demo is no longer interactive - however all of pages are still visible and can be viewed with default/placeholder information. Below I've listed the workflow users would have followed with a brief description on what users would do on each page:
+    Becase of the changes, the demo is no longer interactive - however all of the pages are still visible and can be viewed with default/placeholder information. Below I've listed the workflow users would have experienced with a brief description of each page:
 </p>
 
 - Home Page: <a href="http://DismantleYourDoubt.com" targer="_blank">DismantleYourDoubt.com</a> , users would have been able to learn about the event and purchase access using a Shopify link<br>
