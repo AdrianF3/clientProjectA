@@ -6,13 +6,13 @@
 
 </p>
 
-## How To Use
+## How To Visit
 <p>
     To visit the home address of the website visit: <a href="http://dismantleyourdoubt.com" target="_blank">DismantleYourDoubt.com</a>.
 </p>
 <p>
 
-## Demo Instructions 
+## Demo Info 
 <p>
     <b>The demo is still active as it was when I was developing this project</b>. Unfortunately the project/event was cancelled prior to launch and that is when development stopped and I gave up access to the website & backend, as well as the originally deployed repo. I do have a copy of the repo, in its final version.
 </p>
